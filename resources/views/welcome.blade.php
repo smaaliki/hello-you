@@ -23,14 +23,16 @@
         <div>
             <iframe width="560"
                     height="315"
-                    src="https://www.youtube.com/embed/fxlF7IHa62Q"
+                    src="https://www.youtube.com/embed/WhUJ4wvsero"
                     frameborder="0"
                     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen></iframe>
         </div>
         <div>
             <p>
-                Hello everyone!! This is my submission for <span style='font-style:italic'>"Assignment #0 - Hello, you!"</span> for the <span style='font-style:italic; font-weight:900'>Introduction to creative Exploration on the Web</span> course
+                Hello everyone! This is my submission for
+                <span style='font-style:italic'>"Assignment #0 - Hello, you!"</span> for the
+                <span style='font-style:italic; font-weight:900'>Introduction to creative Exploration on the Web</span> course.
             </p>
         </div>
     </div>
