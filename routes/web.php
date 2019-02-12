@@ -18,3 +18,7 @@ Route::get('/', function () {
 Route::get('/week1', function () {
     return view('week1');
 });
+
+Route::get('/week2', function () {
+    return view('week2');
+});
