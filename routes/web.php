@@ -22,3 +22,7 @@ Route::get('/week1', function () {
 Route::get('/week2', function () {
     return view('week2');
 });
+
+Route::get('/assignment1', function () {
+    return view('assignment1');
+});
