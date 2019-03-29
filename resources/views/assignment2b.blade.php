@@ -26,7 +26,7 @@
         <h2>Assignment 2b: Tick Tock</h2>
         <div style='text-align:left;'>
             <p>
-                A watch in the classic car racing Gulf colors. Now, with a day fo the month feature.
+                A watch in the classic car racing Gulf colors. Now, with a day of the month feature.
             </p>
         <div id='assignment2b'>
     </div>

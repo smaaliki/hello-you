@@ -56,8 +56,8 @@ function draw() {
     noStroke();
 
     // Fetch the current time
-    var H = 23;//hour();
-    var M = 0;//minute();
+    var H = hour();
+    var M = minute();
     var S = second();
     let t = frameCount;
 
