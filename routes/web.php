@@ -26,3 +26,19 @@ Route::get('/week2', function () {
 Route::get('/assignment1', function () {
     return view('assignment1');
 });
+
+Route::get('/assignment2', function () {
+    return view('assignment2');
+});
+
+Route::get('/assignment2a', function () {
+    return view('assignment2a');
+});
+
+Route::get('/assignment2b', function () {
+    return view('assignment2b');
+});
+
+Route::get('/assignment2c', function () {
+    return view('assignment2c');
+});
