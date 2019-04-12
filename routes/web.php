@@ -42,3 +42,7 @@ Route::get('/assignment2b', function () {
 Route::get('/assignment2c', function () {
     return view('assignment2c');
 });
+
+Route::get('/assignment3', function () {
+    return view('assignment3');
+});
