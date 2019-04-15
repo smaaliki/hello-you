@@ -46,3 +46,11 @@ Route::get('/assignment2c', function () {
 Route::get('/assignment3', function () {
     return view('assignment3');
 });
+
+Route::get('/week10A', function () {
+    return view('week10A');
+});
+
+Route::get('/week10B', function () {
+    return view('week10B');
+});
