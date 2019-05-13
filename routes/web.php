@@ -54,3 +54,7 @@ Route::get('/week10A', function () {
 Route::get('/week10B', function () {
     return view('week10B');
 });
+
+Route::get('/tennis', function () {
+    return view('tennis');
+});
